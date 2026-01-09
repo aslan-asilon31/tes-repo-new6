@@ -1,1 +1,2 @@
-register page
+register page 1 
+register page 2
